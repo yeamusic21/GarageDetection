@@ -4,3 +4,6 @@ Scripts/
 pyvenv.cfg
 GarageImages/
 pip-selfcheck.json
+debug.log
+*.zip
+*.csv
